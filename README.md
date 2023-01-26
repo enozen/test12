@@ -1,2 +1,1 @@
-New text
-new style
+style
